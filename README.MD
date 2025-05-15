@@ -81,7 +81,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/cwhaaw_.exe/">
+        href="https://www.instagram.com/cwhaaw_">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
